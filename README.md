@@ -13,7 +13,7 @@
 ### Automation Engineer · Bot Developer · API Reverse Engineer
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/runetech)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/runetech)
+[![Profile Views](https://komarev.com/ghpvc/?username=runetech&style=for-the-badge&color=blueviolet)](https://github.com/runetech)
 
 </div>
 
